@@ -4,12 +4,13 @@
 
 - [Learning Resources](#learning-resources)
   - [Interview preparation and knowledge checking](#interview-preparation-and-knowledge-checking)
+    - [Blog posts](#blog-posts)
   - [Data Science](#data-science)
     - [Machine Learning](#machine-learning)
-      - [Blog posts](#blog-posts)
+      - [Blog posts](#blog-posts-1)
     - [Deep Learning](#deep-learning)
     - [NLP](#nlp)
-      - [Blog posts](#blog-posts-1)
+      - [Blog posts](#blog-posts-2)
     - [Computer Vision](#computer-vision)
     - [RecSys](#recsys)
     - [Metrics](#metrics)
@@ -34,13 +35,17 @@
 - [OVER 100 Data Scientist Interview Questions and Answers by Terence Shin](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) `Questions`
 - [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus` `Questions`
 - [DS & Python questions by Artem Ryblov](https://github.com/Extremesarova/resources/blob/main/questions.md) `Questions`
-- [Introduction to Machine Learning Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
+- [Introduction to Machine Learning Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/) `Book`
 - [Awesome interview questions repository](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Data Science Interviews by Alexey Grigoriev](https://ds-interviews.org/) `Questions`
 - [Тестовые задания по DS](https://github.com/slgero/testovoe) `Rus`
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) `Repository`
 - [Data-Science-Interview-Questions by Youssef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions) `Repository`
+
+### Blog posts
+
 - [Как я готовился к собеседованию на позицию Senior ML Engineer by Zarin Gleb](https://zaringleb.medium.com/%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D1%81%D1%8F-%D0%BA-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E-senior-ml-engineer-f2f6d8effa50) `Rus article`
+- [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/company/avito/blog/662922/) `Rus article`
 
 ## Data Science
 
@@ -89,12 +94,12 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/) `Rus` `Course`
 - [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html) `Course`
 - [Learn to Love Working with Vector Embeddings by Pinecone](https://www.pinecone.io/learn/) `Course`
-- [Рейтинг русскоязычных энкодеров предложений](https://habr.com/ru/post/669674/) `Rus article`
 - [Transformer Recipe by Elvis Saravia](https://github.com/dair-ai/Transformers-Recipe) `Repository`
 
 #### Blog posts
 
 - [Мультиклассификация экстремально коротких текстов классическими методами машинного обучения](https://newtechaudit.ru/multiklassifikacziya-ekstremalno-korotkih-tekstov-klassicheskimi-metodami-mashinnogo-obucheniya/) `Rus article`
+- [Рейтинг русскоязычных энкодеров предложений](https://habr.com/ru/post/669674/) `Rus article`
 
 ### Computer Vision
 
